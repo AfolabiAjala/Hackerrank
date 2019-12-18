@@ -18,7 +18,7 @@ Day 3: Intro to Conditional Statements
 #Output Format
 #Print Weird if the number is weird; otherwise, print Not Weird.
 
-
+```
 #!/bin/python
 
 import sys
@@ -34,3 +34,4 @@ elif n % 2 == 0 and n in range(6,20):
     print('Weird')
 else:
     print('Not weird')
+```
