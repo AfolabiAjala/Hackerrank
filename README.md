@@ -18,6 +18,8 @@ A single line containing a positive integer, .
 ### Output Format
 Print Weird if the number is weird; otherwise, print Not Weird.
 
+## Solution
+
 ```
 #!/bin/python
 
